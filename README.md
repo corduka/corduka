@@ -17,9 +17,9 @@ For me, coding with **React** isn’t just a skill — it’s something I genuin
 💡 I specialize in building **fast**, **responsive**, and **user-centered** web applications using:
 
 - ⚛️ **React.js**
-- 🚀 **Next.js**
-- 🎨 **Tailwind CSS**, **Sass**, **Bootstrap**
 - 🧠 **JavaScript (ES6+)**
+- 🧱 **HTML5**
+- 🎨 **CSS3**, **Tailwind CSS**, **Sass**, **Bootstrap**
 
 Through hands-on experience and immersive training like:
 
