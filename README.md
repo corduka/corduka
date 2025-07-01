@@ -32,6 +32,15 @@ I've built real-world projects focused on **clean UIs**, **reusable components**
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=corduka&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corduka&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ## 🟩 GitHub Streak
 
 <p align="center">
