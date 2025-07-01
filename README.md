@@ -3,13 +3,13 @@
   <em>A passionate React Developer turning complexity into simplicity</em>
 </p>
 
----
-
-## 🚀 About Me
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 </p>
+
+---
+
+## 🚀 About Me
 
 For me, coding with **React** isn’t just a skill — it’s something I genuinely enjoy. React gives me the tools to turn complexity into simplicity, and I love that.
 
